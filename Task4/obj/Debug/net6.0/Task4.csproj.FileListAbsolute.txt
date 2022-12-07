@@ -1,0 +1,15 @@
+/Users/anastasiasventsitskaya/Desktop/Homework8/Task4/obj/Debug/net6.0/Task4.csproj.AssemblyReference.cache
+/Users/anastasiasventsitskaya/Desktop/Homework8/Task4/obj/Debug/net6.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiasventsitskaya/Desktop/Homework8/Task4/obj/Debug/net6.0/Task4.AssemblyInfoInputs.cache
+/Users/anastasiasventsitskaya/Desktop/Homework8/Task4/obj/Debug/net6.0/Task4.AssemblyInfo.cs
+/Users/anastasiasventsitskaya/Desktop/Homework8/Task4/obj/Debug/net6.0/Task4.csproj.CoreCompileInputs.cache
+/Users/anastasiasventsitskaya/Desktop/Homework8/Task4/bin/Debug/net6.0/Task4
+/Users/anastasiasventsitskaya/Desktop/Homework8/Task4/bin/Debug/net6.0/Task4.deps.json
+/Users/anastasiasventsitskaya/Desktop/Homework8/Task4/bin/Debug/net6.0/Task4.runtimeconfig.json
+/Users/anastasiasventsitskaya/Desktop/Homework8/Task4/bin/Debug/net6.0/Task4.dll
+/Users/anastasiasventsitskaya/Desktop/Homework8/Task4/bin/Debug/net6.0/Task4.pdb
+/Users/anastasiasventsitskaya/Desktop/Homework8/Task4/obj/Debug/net6.0/Task4.dll
+/Users/anastasiasventsitskaya/Desktop/Homework8/Task4/obj/Debug/net6.0/refint/Task4.dll
+/Users/anastasiasventsitskaya/Desktop/Homework8/Task4/obj/Debug/net6.0/Task4.pdb
+/Users/anastasiasventsitskaya/Desktop/Homework8/Task4/obj/Debug/net6.0/Task4.genruntimeconfig.cache
+/Users/anastasiasventsitskaya/Desktop/Homework8/Task4/obj/Debug/net6.0/ref/Task4.dll
